@@ -65,7 +65,7 @@ Software yang diperlukan :
   ### v1.0.0 - 19 Agustus 2021
   
   **Bug fixes:**
-  -Fix a typo
+  - Fix a typo
   
   ---
   

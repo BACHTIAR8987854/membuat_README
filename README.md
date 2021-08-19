@@ -36,5 +36,27 @@ Software yang diperlukan :
   
   ![68747470733a2f2f696d6167652e6962622e636f2f64455a6462562f6572642d70657270757374616b61616e2e706e67](https://user-images.githubusercontent.com/60456760/130034839-ed324d57-e43d-4b5f-b6e4-4dd0705524cb.png)
   
+  1. sudah harus terdaftar sebagai anggota perpustakaan
+  2. adapun syarat menjadi anggota harus sudah memiliki :
+     a. nama
+     b. id
+     c. username
+     d. password
+     e. alamat
+     f. status
+  3. input tanggal meminjam dan tanggal mengembalikan.
+  4. meminjam buku yang sudah ada syarat atau data yaitu:
+     a. pengarang
+     b. judul
+     c. id
+     d. penerbit
+     e. tahun
+     f. kategori
+  5. mengembalikan sesuai dengan taggal yang sudah diinput di perintah nomer 3.
+
+  ## License
+  
+  project ini dilindungi hak cipta atas kekayaan intelektual - see the [LICENSE.md](https://getcomposer.org/)
+  
 
 

@@ -1,5 +1,7 @@
 # Perpustakaan
 
+**Version 1.0.0** - [ChangeLog SourceCode](CHANGELOG.md)
+
 Website sistem informasi perpustakaan yang dibuat dengan bahasa PHP. Aplikasi Perpustakaan ini dibuat untuk mempermudah pencatatan peminjaman buku, sehingga mengurangi kemungkinan kesalahan rekap data. Project ini merupakan project sederhana dari aplikasi perpustakaan sebenarnya.
 
 ## Petunjuk Instalasi
@@ -57,6 +59,20 @@ Software yang diperlukan :
   ## License & copyright
   
   project ini dilindungi hak cipta atas kekayaan intelektual  Copyright &copy; 2021. All Right Reserved - see the [LICENSE.md](https://github.com/BACHTIAR8987854) file for details
+  
+  ## Change log
+  
+  ### v1.0.0 - 19 Agustus 2021
+  
+  initial release.
+  
+  **Added:**
+  - Readme
+  - Change log
+  - License & copyright
+  
+  
+  
   
   
   

@@ -56,9 +56,7 @@ Software yang diperlukan :
      f. kategori
   5. mengembalikan sesuai dengan taggal yang sudah diinput di perintah nomer 3.
 
-  ## License & copyright
-  
-  project ini dilindungi hak cipta atas kekayaan intelektual  Copyright &copy; 2021. All Right Reserved - see the [LICENSE.md](https://github.com/BACHTIAR8987854) file for details
+
   
  
   

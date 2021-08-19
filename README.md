@@ -60,21 +60,7 @@ Software yang diperlukan :
   
   project ini dilindungi hak cipta atas kekayaan intelektual  Copyright &copy; 2021. All Right Reserved - see the [LICENSE.md](https://github.com/BACHTIAR8987854) file for details
   
-  ## Change log
-  
-  ### v1.0.0 - 19 Agustus 2021
-  
-  **Bug fixes:**
-  - Fix a typo
-  
-  ---
-  
-  initial release.
-  
-  **Added:**
-  - Readme
-  - Change log
-  - License & copyright
+ 
   
   
   

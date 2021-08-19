@@ -1,6 +1,6 @@
 # Perpustakaan
 
-**Version 1.0.0** - [ChangeLog SourceCode](CHANGELOG.md)
+**Version 1.0.0** - [ChangeLog SourceCode](https://github.com/BACHTIAR8987854)
 
 Website sistem informasi perpustakaan yang dibuat dengan bahasa PHP. Aplikasi Perpustakaan ini dibuat untuk mempermudah pencatatan peminjaman buku, sehingga mengurangi kemungkinan kesalahan rekap data. Project ini merupakan project sederhana dari aplikasi perpustakaan sebenarnya.
 
